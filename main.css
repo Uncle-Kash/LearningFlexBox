@@ -10,6 +10,8 @@ body{
 
 .item{
     width: 100px;
-    width: 100px;
+    height: 100px;
     background: #254de4;
+    color: #fff;
+    margin: 20px;
 }
